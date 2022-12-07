@@ -22,9 +22,9 @@ require_once 'system.medoo.php';
 
 $mikbotamdata = new medoo([
     'database_type' => 'mysql',
-    'database_name' => 'bangacil',
+    'database_name' => 'mikbotam',
     'server' => 'localhost',
-    'username' => 'bangacil',
-    'password' => 'admin12345',
+    'username' => 'alvianto',
+    'password' => 'alvianto17072003',
     'charset' => 'utf8'
 ]);
